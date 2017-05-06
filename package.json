@@ -1,0 +1,10 @@
+{
+  "name": "@leggsimon/test-setup",
+  "version": "0.1.0",
+  "description": "A quick Javascript test setup",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leggsimon@gmail.com",
+  "license": "ISC"
+}
